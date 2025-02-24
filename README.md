@@ -2,7 +2,7 @@
 
 A modern, responsive chat interface for Ollama, built with React, TypeScript, and Chakra UI.
 
-![Ollama Chat UI Screenshot](public/ollama.png)
+![Ollama Chat UI Screenshot](public/Ollama.png)
 
 ## Features
 
