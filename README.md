@@ -6,7 +6,7 @@ A modern, responsive chat interface for Ollama, built with React, TypeScript, an
 
 ## Repository
 
-🔗 **GitHub Repository**: [https://github.com/saravanasak/ollama-chat](https://github.com/saravanasak/ollama-chat)
+🔗 **GitHub Repository**: [https://github.com/saravanasak/ollama-chat]
 
 ## Features
 
