@@ -4,15 +4,19 @@ A modern, responsive chat interface for Ollama, built with React, TypeScript, an
 
 ![Ollama Chat UI Screenshot](public/Ollama.png)
 
+## Repository
+
+🔗 **GitHub Repository**: [https://github.com/saravanasak/ollama-chat](https://github.com/saravanasak/ollama-chat)
+
 ## Features
 
-- Clean and intuitive user interface
-- Real-time chat with Ollama models
-- Edit messages and regenerate responses
-- Chat history management
-- Dark mode interface
-- Quick prompt suggestions
-- Server status monitoring
+- 🎯 Clean and intuitive user interface
+- 💬 Real-time chat with Ollama models
+- 📝 Edit messages and regenerate responses
+- 📚 Chat history management
+- 🎨 Dark mode interface
+- ⚡ Quick prompt suggestions
+- 🔄 Server status monitoring
 
 ## Prerequisites
 
@@ -31,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ollama-chat.git
+   git clone https://github.com/saravanasak/ollama-chat.git
    cd ollama-chat
    ```
 
